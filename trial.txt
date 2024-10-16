@@ -1,0 +1,11 @@
+React event handler onClick - fired wehen the element is clicked
+
+
+
+this is very tiring
+
+
+i am now gonna remove a file from the staging area
+
+
+this is confusing...
