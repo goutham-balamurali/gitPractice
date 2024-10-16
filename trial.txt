@@ -1,0 +1,1 @@
+React event handler onClick - fired wehen the element is clicked
